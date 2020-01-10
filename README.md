@@ -4,7 +4,8 @@ Person re-id can recognize pedestrians based on their clothing, posture and othe
 
 
 ####query picture
-<img src="examples/voc/.readme/fcn32s_iter00092000.jpg" width="30%" />
+
+<img src="https://github.com/huangzicheng/detection-and-Re-ID/blob/master/2-2-1.jpg" width="30%" />
 
 [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=QuJd8G4TG4c)
 
